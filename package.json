@@ -1,0 +1,19 @@
+{
+  "name": "BOT-JuoKier",
+  "version": "1.0.1",
+  "description": "bot node heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": "10.0.0"
+  },
+  "author": "JuoKier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-persist": "^0.0.8"
+  }
+}
